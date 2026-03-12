@@ -2,7 +2,7 @@
 title: "Primera reunión"
 author: "Carolina Morales y Bastián Olea"
 date: "2026-03-12"
-#image: "cordillera.jpeg"
+image: "cordillera_3.jpg"
 categories: [noticias, reuniones]
 ---
 

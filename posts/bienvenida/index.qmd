@@ -1,11 +1,15 @@
 ---
-title: "Bienvenida usuaRi@s!"
+title: "¡Hola usuaRi@s!"
 author: "Bastián Olea Herrera"
 date: "2026-02-17"
 image: "cordillera.jpeg"
 categories: [noticias]
 ---
 
-Este será el blog de la comunidad de usuarias y usuarios de R en Santiago de Chile!
+Este será el sitio web de la comunidad de usuari@s de R en Santiago de Chile. Únete y participa!
+
+Esperamos que sea un espacio para **compartir conocimientos, aprendizajes, dudas, proyectos,** y más!
+
+Puedes [inscribirte](participa.html) para recibir el enlace y participar en la siguiente reunión.
 
 ![](cordillera.jpeg)

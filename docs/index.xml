@@ -32,9 +32,10 @@
   <category>reuniones</category>
   <guid>https://santiagoRusers.github.io/posts/primera_reunion/</guid>
   <pubDate>Thu, 12 Mar 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://santiagoRusers.github.io/posts/primera_reunion/cordillera_3.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Bienvenida usuaRi@s!</title>
+  <title>¡Hola usuaRi@s!</title>
   <dc:creator>Bastián Olea Herrera</dc:creator>
   <link>https://santiagoRusers.github.io/posts/bienvenida/</link>
   <description><![CDATA[ 
@@ -44,6 +45,8 @@
 
 
 <p>Este será el blog de la comunidad de usuarias y usuarios de R en Santiago de Chile!</p>
+<p>Esperamos que sea un espacio para <strong>compartir conocimientos, aprendizajes, dudas, proyectos,</strong> y más!</p>
+<p>Puedes <a href="participa.html">inscribirte</a> para recibir el enlace y participar en la siguiente reunión.</p>
 <p><img src="https://santiagoRusers.github.io/posts/bienvenida/cordillera.jpeg" class="img-fluid"></p>
 
 
