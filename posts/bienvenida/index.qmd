@@ -6,6 +6,6 @@ image: "cordillera.jpeg"
 categories: [noticias]
 ---
 
-Este será el blog de la comunidad de usuarias y usuarios de R en Chile!
+Este será el blog de la comunidad de usuarias y usuarios de R en Santiago de Chile!
 
 ![](cordillera.jpeg)

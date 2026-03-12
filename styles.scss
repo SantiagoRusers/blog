@@ -1,0 +1,50 @@
+/*-- scss:defaults --*/
+$primary: #FDEDF4;
+$secondary: #E3467C;
+$tertiary: #6A3274;
+$body-bg: #FDF4F8;
+$body-color: #593957;
+$link-color: $secondary;
+
+/*-- scss:rules --*/
+
+// barra superior
+.navbar-title {
+  color: $tertiary;
+}
+
+.menu-text {
+  color: $tertiary;
+}
+
+.nav-item .bi, .aa-SubmitIcon {
+color: $body-color !important;
+}
+
+
+// título de posts de blog
+.listing-title, .listing-title a {
+  color: $secondary !important;
+  font-weight: 700 !important;
+  margin-bottom: 4px !important;
+}
+
+// etiquetas de posts
+.listing-category, .quarto-category {
+  border-color: #89598F !important;
+  color: $primary !important;
+  background-color: #B493B6;
+}
+
+.metadata, .quarto-title-meta {
+  opacity: 0.6 !important;
+}
+
+img {
+  border-radius: 7px !important;
+}
+/* css styles */
+
+h1, h2, h3, h4, h5 {
+      color: $secondary !important;
+}

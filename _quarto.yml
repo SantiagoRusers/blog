@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  description: "Sitio web de la comunidad de usuarias y usuarios de R en Chile"
-  site-url: https://ruserschile.github.io
-  title: "R Chile"
+  description: "Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile"
+  site-url: https://ruserssantiago.github.io
+  title: "Grupo de usuari@s de R: Santiago"
   navbar:
     right:
       - text: Introducción
@@ -14,16 +14,13 @@ website:
         href: index.qmd
       - about.qmd
       - icon: github
-        href: https://github.com/RusersChile
+        href: https://github.com/RusersSantiago
       - icon: twitter
-        href: https://twitter.com/RusersChile
+        href: https://twitter.com/RusersSantiago
 format:
   html:
     lang: "es"
-    theme:
-      - litera
-      - brand
-    css: styles.css
+    theme: [litera, brand, styles.scss]
 
 
 

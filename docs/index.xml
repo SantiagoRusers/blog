@@ -5,10 +5,10 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>R Chile</title>
+<title>Grupo de usuari@s de R: Santiago</title>
 <link>https://ruserschile.github.io/</link>
 <atom:link href="https://ruserschile.github.io/index.xml" rel="self" type="application/rss+xml"/>
-<description>Sitio web de la comunidad de usuarias y usuarios de R en Chile</description>
+<description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Tue, 17 Feb 2026 03:00:00 GMT</lastBuildDate>
 <item>
@@ -21,7 +21,7 @@
 
 
 
-<p>Este será el blog de la comunidad de usuarias y usuarios de R en Chile!</p>
+<p>Este será el blog de la comunidad de usuarias y usuarios de R en Santiago de Chile!</p>
 <p><img src="https://ruserschile.github.io/posts/bienvenida/cordillera.jpeg" class="img-fluid"></p>
 
 
