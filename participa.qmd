@@ -1,0 +1,40 @@
+---
+title: "Participa!"
+image: "img/cordillera_wide.jpeg"
+format: html
+---
+
+#### Súmate a las reuniones de la comunidad de usuarias y usuarios de R en Santiago
+
+{{< fa calendar-day size=2x >}} Estas reuniones serán **mensuales** y abiertas a **personas que usen R de forma regular**.
+
+{{< fa map size=2x >}} Si bien el grupo de usuarixs se concentra en **Santiago de Chile**, pueden participar personas de cualquier región del país!
+
+{{< fa laptop-code size=2x >}} El objetivo es **crear comunidad**, conocer lo que estamos haciendo, y compartir aprendizajes! 
+
+- En cada reunión podremos **compartir algo que estemos haciendo con R,** como proyectos de investigación, visualizaciones de datos, aplicaciones, paquetes, y más!
+- También podremos plantear **preguntas** para ayudarnos entre nosotrxs.
+- Compartiremos actividades como **trivias**, **desafíos de código**, **presentaciones temáticas** y más!
+
+{{< fa video size=2x >}} Las reuniones serán por **videoconferencia**, pero no descartamos futuras reuniones presenciales!
+
+{{< fa triangle-exclamation size=2x >}} Se trata de un **espacio seguro** e **inclusivo**, donde no se tolerará ningún tipo de discriminación o acoso. [Revisa el código de conducta.](https://ropensci.org/es/código-de-conducta/)
+
+Si te interesa participar, incríbete a continuación:
+
+<div
+style = "padding: 4px; border-radius: 5px; padding-left: 24px; 
+background-color: #6A3274; margin-top: 24px;
+width: 180px;"
+>
+
+<a
+href = "https://ropensci.org/es/código-de-conducta/" 
+style = "text-decoration: none; color: #FDF4F8;"
+target = "_blank">
+
+{{< fa user-plus size=2x >}} Inscríbete!
+
+</a>
+
+</div>

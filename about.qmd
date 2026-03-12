@@ -25,4 +25,4 @@ Código del sitio [en Github](https://github.com/SantiagoRusers/santiagoRusers.g
 
 ## Código de conducta
 
-Nos adherimos al código de conducta _[Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html)._ Al contribuir o participar de este grupo, aceptas atenerte a sus términos.
+Nos adherimos al [código de conducta _de ROpenSci](https://ropensci.org/es/código-de-conducta/)._ Al contribuir o participar de este grupo, aceptas atenerte a sus términos.

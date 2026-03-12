@@ -1,0 +1,13 @@
+---
+title: "Primera reunión"
+author: "Carolina Morales y Bastián Olea"
+date: "2026-03-12"
+#image: "cordillera.jpeg"
+categories: [noticias, reuniones]
+---
+
+Anunciamos la primera reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!
+
+Estamos muy felices de poder conocer a mas personas que usen este lenguaje en las más diversas temáticas y disciplinas! 🎉
+
+{{< fa user-plus size=2x >}} Visita la [página de **participación** para inscribirte](/participa.html)

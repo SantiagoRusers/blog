@@ -1,7 +1,0 @@
----
-title: "Introducción"
-image: "img/cordillera_wide.jpeg"
-format: html
----
-
-Sitio web de la comunidad de usuarias y usuarios de R en Santiago.

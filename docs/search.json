@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Grupo de usuari@s de R: Santiago",
     "section": "",
-    "text": "Bienvenida usuaRi@s!\n\n\n\nnoticias\n\n\n\n\n\n\n\n\n\n17 feb 2026\n\n\nBastián Olea Herrera\n\n\n\n\n\nNo hay resultados"
+    "text": "Primera reunión\n\n\n\nnoticias\n\nreuniones\n\n\n\n\n\n\n\n\n\n12 mar 2026\n\n\nCarolina Morales y Bastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenida usuaRi@s!\n\n\n\nnoticias\n\n\n\n\n\n\n\n\n\n17 feb 2026\n\n\nBastián Olea Herrera\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "about.html",
@@ -37,16 +37,16 @@
   {
     "objectID": "introduccion.html",
     "href": "introduccion.html",
-    "title": "Introducción",
+    "title": "Participa",
     "section": "",
-    "text": "Sitio web de la comunidad de usuarias y usuarios de R en Santiago."
+    "text": "Participa en las reuniones dela comunidad de usuarias y usuarios de R en Santiago!\nEstas reuniones serán mensuales y abiertas a personas que usen R de forma regular.\nSi bien el grupo de usuarixs se concentra en Santiago de Chile, pueden participar personas de cualquier región del país!"
   },
   {
     "objectID": "about.html#código-de-conducta",
     "href": "about.html#código-de-conducta",
     "title": "Acerca de",
     "section": "Código de conducta",
-    "text": "Código de conducta\nNos adherimos al código de conducta Contributor Code of Conduct. Al contribuir o participar de este grupo, aceptas atenerte a sus términos."
+    "text": "Código de conducta\nNos adherimos al código de conducta _de ROpenSci._ Al contribuir o participar de este grupo, aceptas atenerte a sus términos."
   },
   {
     "objectID": "pendientes.html",
@@ -145,5 +145,19 @@
     "title": "GNU Affero General Public License",
     "section": "",
     "text": "If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.\nTo do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the “copyright” line and a pointer to where the full notice is found.\n    &lt;one line to give the program's name and a brief idea of what it does.&gt;\n    Copyright (C) &lt;year&gt;  &lt;name of author&gt;\n\n    This program is free software: you can redistribute it and/or modify\n    it under the terms of the GNU Affero General Public License as\n    published by the Free Software Foundation, either version 3 of the\n    License, or (at your option) any later version.\n\n    This program is distributed in the hope that it will be useful,\n    but WITHOUT ANY WARRANTY; without even the implied warranty of\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n    GNU Affero General Public License for more details.\n\n    You should have received a copy of the GNU Affero General Public License\n    along with this program.  If not, see &lt;https://www.gnu.org/licenses/&gt;.\nAlso add information on how to contact you by electronic and paper mail.\nIf your software can interact with users remotely through a computer network, you should also make sure that it provides a way for users to get its source. For example, if your program is a web application, its interface could display a “Source” link that leads users to an archive of the code. There are many ways you could offer source, and different solutions will be better for different programs; see section 13 for the specific requirements.\nYou should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU AGPL, see https://www.gnu.org/licenses/."
+  },
+  {
+    "objectID": "participa.html",
+    "href": "participa.html",
+    "title": "Participa!",
+    "section": "",
+    "text": "Súmate a las reuniones de la comunidad de usuarias y usuarios de R en Santiago\n Estas reuniones serán mensuales y abiertas a personas que usen R de forma regular.\n Si bien el grupo de usuarixs se concentra en Santiago de Chile, pueden participar personas de cualquier región del país!\n El objetivo es crear comunidad, conocer lo que estamos haciendo, y compartir aprendizajes!\n\nEn cada reunión podremos compartir algo que estemos haciendo con R, como proyectos de investigación, visualizaciones de datos, aplicaciones, paquetes, y más!\nTambién podremos plantear preguntas para ayudarnos entre nosotrxs.\nCompartiremos actividades como trivias, desafíos de código, presentaciones temáticas y más!\n\n Las reuniones serán por videoconferencia, pero no descartamos futuras reuniones presenciales!\n Se trata de un espacio seguro e inclusivo, donde no se tolerará ningún tipo de discriminación o acoso. Revisa el código de conducta.\nSi te interesa participar, incríbete a continuación:\n\n\n Inscríbete!"
+  },
+  {
+    "objectID": "posts/primera_reunion/index.html",
+    "href": "posts/primera_reunion/index.html",
+    "title": "Primera reunión",
+    "section": "",
+    "text": "Anunciamos la primera reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!\nEstamos muy felices de poder conocer a mas personas que usen este lenguaje en las más diversas temáticas y disciplinas! 🎉\n Visita la página de participación para inscribirte"
   }
 ]

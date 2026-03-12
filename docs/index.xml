@@ -10,7 +10,29 @@
 <atom:link href="https://santiagoRusers.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 17 Feb 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Primera reunión</title>
+  <dc:creator>Carolina Morales y Bastián Olea</dc:creator>
+  <link>https://santiagoRusers.github.io/posts/primera_reunion/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Anunciamos la primera reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!</p>
+<p>Estamos muy felices de poder conocer a mas personas que usen este lenguaje en las más diversas temáticas y disciplinas! 🎉</p>
+<p><i class="fa-solid fa-user-plus fa-2x" aria-label="user-plus"></i> Visita la <a href="../../participa.html">página de <strong>participación</strong> para inscribirte</a></p>
+
+
+
+ ]]></description>
+  <category>noticias</category>
+  <category>reuniones</category>
+  <guid>https://santiagoRusers.github.io/posts/primera_reunion/</guid>
+  <pubDate>Thu, 12 Mar 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Bienvenida usuaRi@s!</title>
   <dc:creator>Bastián Olea Herrera</dc:creator>

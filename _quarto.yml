@@ -8,11 +8,12 @@ website:
   title: "Grupo de usuari@s de R: Santiago"
   navbar:
     right:
-      # - text: Introducción
-      #   href: introduccion.qmd
+      - text: <strong>Participa</strong>
+        href: participa.qmd
       - text: Blog
         href: index.qmd
-      - about.qmd
+      - text: Acerca de
+        href: about.qmd
       - icon: github
         href: https://github.com/santiagoRusers
       - icon: linkedin
