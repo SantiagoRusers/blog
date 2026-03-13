@@ -20,7 +20,7 @@ format: html
 
 {{< fa triangle-exclamation size=2x >}} Se trata de un **espacio seguro** e **inclusivo**, donde no se tolerará ningún tipo de discriminación o acoso. [Revisa el código de conducta.](https://ropensci.org/es/código-de-conducta/)
 
-Si te interesa participar, incríbete a continuación:
+Si te interesa participar, inscríbete a continuación:
 
 <div
 style = "padding: 4px; border-radius: 5px; padding-left: 24px; 
@@ -38,6 +38,8 @@ target = "_blank">
 </a>
 
 </div>
+
+Nos puedes ayudar difundiendo el aviso de la reunión [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/posts/santiagorusers_r-activity-7437973180054401025-4STh) y en [Twitter/X {{< fa brands twitter >}}](https://x.com/SantiagoRusers/status/2032202148574863377?s=20)
 
 ### Próxima reunión:
 - 18 de marzo de 2026, 19:30 hrs. (Santiago), online

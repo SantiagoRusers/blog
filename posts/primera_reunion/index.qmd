@@ -12,9 +12,14 @@ Estamos muy felices de poder conocer a mas personas que usen este lenguaje en la
 
 {{< fa user-plus size=2x >}} Visita la [página de **participación** para inscribirte!](/participa.html)
 
-### Próxima reunión:
+### Primera reunión:
 - 18 de marzo de 2026, 19:30 hrs. (Santiago), online
 
-<br>
+
+Nos puedes ayudar difundiendo el aviso de la reunión [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/posts/santiagorusers_r-activity-7437973180054401025-4STh) y en [Twitter/X {{< fa brands twitter >}}](https://x.com/SantiagoRusers/status/2032202148574863377?s=20)
+
+::: {style="margin-top: 42px;"}
 
 ![](reu_santiagorusers_1_afiche.png)
+
+:::

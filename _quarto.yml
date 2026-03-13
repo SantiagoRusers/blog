@@ -6,6 +6,9 @@ website:
   description: "Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile"
   site-url: https://santiagoRusers.github.io
   title: "Grupo de usuari@s de R: Santiago"
+  favicon: profile.jpg
+  open-graph: true
+  twitter-card: true
   navbar:
     right:
       - text: <strong>Participa</strong>
@@ -20,6 +23,12 @@ website:
         href: https://www.linkedin.com/company/santiagorusers
       - icon: twitter
         href: https://twitter.com/santiagoRusers
+  announcement: 
+    icon: exclamation-circle-fill
+    dismissable: true
+    content: "[**Inscríbete** a la primera junta del grupo!](participa.html) 19/03/2026"
+    type: primary
+    position: below-navbar
 format:
   html:
     lang: "es"

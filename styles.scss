@@ -33,6 +33,12 @@ color: $body-color !important;
 }
 
 
+.alert-primary {
+  background-color: $secondary !important;
+  border-bottom: solid 1px #E02768 !important;
+  border-radius: 0 !important;
+}
+
 // título de posts de blog
 .listing-title, .listing-title a {
   color: $secondary !important;
