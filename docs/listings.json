@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/chat_slack/index.html",
       "/posts/2026-03-18/index.html",
       "/posts/primera_reunion/index.html",
       "/posts/bienvenida/index.html"

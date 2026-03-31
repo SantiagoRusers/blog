@@ -10,7 +10,42 @@
 <atom:link href="https://santiagoRusers.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Wed, 18 Mar 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Chat de la comunidad en Slack</title>
+  <link>https://santiagoRusers.github.io/posts/chat_slack/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>En Slack tendremos un <strong>chat grupal</strong> para poder mantenernos en contacto.</p>
+<div id="boton" style="padding: 4px; border-radius: 5px; padding-left: 24px; background-color: #6A3274; margin-top: 24px; margin-bottom: 24px;
+width: 320px;">
+<p><a href="https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA" style="text-decoration: none; color: #FDF4F8;" target="_blank"></a></p><a href="https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA" style="text-decoration: none; color: #FDF4F8;" target="_blank">
+<p><i class="fa-brands fa-slack fa-2x" aria-label="slack"></i> Únete al chat grupal en Slack</p>
+</a><p><a href="https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA" style="text-decoration: none; color: #FDF4F8;" target="_blank"></a></p>
+</div>
+<p>El chat se divide en distintos <strong>canales</strong> para ordenar la conversación:</p>
+<ul>
+<li><code>#bienvenidas</code> para que te presentes y nos cuentes más de ti!</li>
+<li><code>#reuniones</code> para coordinarnos sobre las juntas y conversar durante las reuniones</li>
+<li><code>#general</code> para charlar sobre cualquier tema relacionado a R y la comunidad</li>
+<li><code>#ayuda_r</code> para pedir ayuda o plantear consultas sobre tus proyectos</li>
+<li><code>#aprende_R</code> para consultas básicas y aprender el lenguaje</li>
+<li><code>#informal</code> para hablar de cualquier cosa que queramos, guardando el respeto y <a href="https://ropensci.org/es/código-de-conducta/">respetando el código de conducta</a></li>
+</ul>
+<p><i class="fa-brands fa-slack fa-1xl" aria-label="slack"></i> Únete a nuestro grupo de Slack!</p>
+
+
+
+ ]]></description>
+  <category>noticias</category>
+  <guid>https://santiagoRusers.github.io/posts/chat_slack/</guid>
+  <pubDate>Tue, 31 Mar 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://santiagoRusers.github.io/posts/chat_slack/slack.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Junta de usuari@s de R: 18 de marzo, 2026</title>
   <dc:creator>Grupo de usuari@s de R</dc:creator>

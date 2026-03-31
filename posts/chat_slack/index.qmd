@@ -1,0 +1,32 @@
+---
+title: "Chat de la comunidad en Slack"
+format: html
+date: "2026-03-31"
+image: "slack.jpg"
+categories: noticias
+description: "Creamos un grupo de Slack para que podamos mantener el contacto entre reuniones, conversar y conocernos mejor. Únete!"
+---
+
+En Slack tendremos un **chat grupal** para poder mantenernos en contacto. 
+
+<div id="boton" style="padding: 4px; border-radius: 5px; padding-left: 24px; background-color: #6A3274; margin-top: 24px; margin-bottom: 24px;
+width: 320px;">
+  <a href = "https://join.slack.com/t/santiagorusers/shared_invite/zt-3tzmsdyat-gNAUz5mjPij0xFgNLtXeKA" 
+  style="text-decoration: none; color: #FDF4F8;" target = "_blank">
+  
+  {{< fa brands slack size=2x >}} Únete al chat grupal en Slack
+    
+  </a>
+</div>
+
+El chat se divide en distintos **canales** para ordenar la conversación: 
+
+- `#bienvenidas` para que te presentes y nos cuentes más de ti!
+- `#reuniones` para coordinarnos sobre las juntas y conversar durante las reuniones
+- `#general` para charlar sobre cualquier tema relacionado a R y la comunidad
+- `#ayuda_r` para pedir ayuda o plantear consultas sobre tus proyectos
+- `#aprende_R` para consultas básicas y aprender el lenguaje
+- `#informal` para hablar de cualquier cosa que queramos, guardando el respeto y [respetando el código de conducta](https://ropensci.org/es/código-de-conducta/)
+
+
+{{< fa brands slack size=1xl >}} Únete a nuestro grupo de Slack! 

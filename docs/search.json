@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Grupo de usuari@s de R: Santiago",
     "section": "",
-    "text": "Junta de usuari@s de R: 18 de marzo, 2026\n\n\n\nreuniones\n\n\n\nYa fue nuestra primera junta online de usuarios/as de R! Muchas gracias a las más de 10 personas que participaron y compartieron experiencias y conocimientos. Nos vemos el próximo mes!\n\n\n\n\n\n18 mar 2026\n\n\nGrupo de usuari@s de R\n\n\n\n\n\n\n\n\n\n\n\n\nPrimera reunión\n\n\n\nnoticias\n\nreuniones\n\n\n\n\n\n\n\n\n\n12 mar 2026\n\n\nCarolina Morales y Bastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\n¡Hola usuaRi@s!\n\n\n\nnoticias\n\n\n\n\n\n\n\n\n\n17 feb 2026\n\n\nBastián Olea Herrera\n\n\n\n\n\nNo hay resultados"
+    "text": "Chat de la comunidad en Slack\n\n\n\nnoticias\n\n\n\nCreamos un grupo de Slack para que podamos mantener el contacto entre reuniones, conversar y conocernos mejor. Únete!\n\n\n\n\n\n31 mar 2026\n\n\n\n\n\n\n\n\n\n\n\n\nJunta de usuari@s de R: 18 de marzo, 2026\n\n\n\nreuniones\n\n\n\nYa fue nuestra primera junta online de usuarios/as de R! Muchas gracias a las más de 10 personas que participaron y compartieron experiencias y conocimientos. Nos vemos el próximo mes!\n\n\n\n\n\n18 mar 2026\n\n\nGrupo de usuari@s de R\n\n\n\n\n\n\n\n\n\n\n\n\nPrimera reunión\n\n\n\nnoticias\n\nreuniones\n\n\n\n\n\n\n\n\n\n12 mar 2026\n\n\nCarolina Morales y Bastián Olea\n\n\n\n\n\n\n\n\n\n\n\n\n¡Hola usuaRi@s!\n\n\n\nnoticias\n\n\n\n\n\n\n\n\n\n17 feb 2026\n\n\nBastián Olea Herrera\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "about.html",
@@ -46,7 +46,7 @@
     "href": "about.html#código-de-conducta",
     "title": "Acerca de",
     "section": "Código de conducta",
-    "text": "Código de conducta\nNos adherimos al código de conducta _de ROpenSci._ Al contribuir o participar de este grupo, aceptas atenerte a sus términos."
+    "text": "Código de conducta\nNos adherimos al código de conducta de ROpenSci. Al contribuir o participar de este grupo, aceptas atenerte a sus términos."
   },
   {
     "objectID": "pendientes.html",
@@ -166,5 +166,12 @@
     "title": "Junta de usuari@s de R: 18 de marzo, 2026",
     "section": "",
     "text": "Ya fue nuestra primera junta online de usuarios/as de R! 👩🏻‍💻👨🏽‍💻\nVimos usos de R en disciplinas tan distintas como biología, sociología y física, y en temas tan diversos como comercio y salmonicultura 🐟\nMás de 10 usuarias y usuarios de R participaron contando sus experiencias con la programación, mostrando sus proyectos en R, y jugando a la trivia 🤓\nNos vemos en la junta del próximo mes, y atención a nuestras redes sociales para más formas de crear comunidad ✨"
+  },
+  {
+    "objectID": "posts/chat_slack/index.html",
+    "href": "posts/chat_slack/index.html",
+    "title": "Chat de la comunidad en Slack",
+    "section": "",
+    "text": "En Slack tendremos un chat grupal para poder mantenernos en contacto.\n\n\n Únete al chat grupal en Slack\n\n\nEl chat se divide en distintos canales para ordenar la conversación:\n\n#bienvenidas para que te presentes y nos cuentes más de ti!\n#reuniones para coordinarnos sobre las juntas y conversar durante las reuniones\n#general para charlar sobre cualquier tema relacionado a R y la comunidad\n#ayuda_r para pedir ayuda o plantear consultas sobre tus proyectos\n#aprende_R para consultas básicas y aprender el lenguaje\n#informal para hablar de cualquier cosa que queramos, guardando el respeto y respetando el código de conducta\n\n Únete a nuestro grupo de Slack!"
   }
 ]

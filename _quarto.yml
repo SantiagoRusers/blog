@@ -19,6 +19,8 @@ website:
         href: about.qmd
       - text: "{{< fa brands meetup size=xl >}}"
         href: https://www.meetup.com/es-es/santiagorusers/
+      - icon: slack
+        href: https://santiagorusers.slack.com/
       - icon: github
         href: https://github.com/santiagoRusers
       - icon: linkedin
