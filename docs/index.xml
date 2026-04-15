@@ -10,7 +10,43 @@
 <atom:link href="https://santiagoRusers.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 31 Mar 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 15 Apr 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reunión mensual de usuari@s de R: abril</title>
+  <dc:creator>Carolina Morales y Bastián Olea</dc:creator>
+  <link>https://santiagoRusers.github.io/posts/reunion_abril_2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Se viene la segunda reunión de la comunidad de usuarias y usuarios de R en Santiago de Chile!</p>
+<p>Luego de una primera reunión muy entretenida, donde vimos usos de R en disciplinas diversas y compartimos nuestros proyectos, nos reuniremos nuevamente para seguir compartiendo experiencias con R.</p>
+<p><i class="fa-solid fa-user-plus fa-2x" aria-label="user-plus"></i> Visita la <a href="../../participa.html">página de <strong>participación</strong> para inscribirte!</a></p>
+<section id="reunión-de-abril-reunión" class="level3">
+<h3 class="anchored" data-anchor-id="reunión-de-abril-reunión">Reunión de abril reunión:</h3>
+<ul>
+<li>28 de abril de 2026, 19:30 hrs. (Santiago), online</li>
+</ul>
+<p>Nos puedes ayudar difundiendo el aviso de la reunión <a href="https://www.linkedin.com/posts/santiagorusers_r-activity-7437973180054401025-4STh">en LinkedIn <i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a> y en <a href="https://x.com/SantiagoRusers/status/2032202148574863377?s=20">Twitter/X <i class="fa-brands fa-twitter" aria-label="twitter"></i></a></p>
+<!---
+::: {style="margin-top: 42px;"}
+
+![](reu_santiagorusers_1_afiche.png)
+
+:::
+--->
+
+
+</section>
+
+ ]]></description>
+  <category>reuniones</category>
+  <guid>https://santiagoRusers.github.io/posts/reunion_abril_2026/</guid>
+  <pubDate>Wed, 15 Apr 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://santiagoRusers.github.io/posts/reunion_abril_2026/cordillera_4.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Chat de la comunidad en Slack</title>
   <link>https://santiagoRusers.github.io/posts/chat_slack/</link>
