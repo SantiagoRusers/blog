@@ -42,9 +42,10 @@ target = "_blank">
 Nos puedes ayudar difundiendo la iniciativa [en LinkedIn {{< fa brands linkedin >}}](https://www.linkedin.com/company/santiagorusers) y en [Twitter/X {{< fa brands twitter >}}](https://twitter.com/santiagoRusers)
 
 ### Próxima reunión:
-- [28 de abril de 2026, 19:30 hrs. (Santiago), online](/posts/reunion_abril_2026/)
+- Mayo: última semana del mes, fecha por definir
 
 ::: {style="opacity: 0.4;"}
 ### Reuniones pasadas:
+- [28 de abril de 2026, 19:30 hrs. (Santiago), online](/posts/2026-04-28/)
 - [18 de marzo de 2026, 19:30 hrs. (Santiago), online](/posts/2026-03-18/)
 :::

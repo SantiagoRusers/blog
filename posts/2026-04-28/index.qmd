@@ -5,10 +5,10 @@ date: "2026-04-28"
 image: "santiago_r_users_10.jpeg"
 categories: [reuniones]
 lightbox: true
-description: "Tuvimos nuestra segunda reunión online de usuarios/as de R! Nuevamente se sumaron más de 10 personas para conversar, compartir y reflexionar en torno al análisis de datos."
+description: "Tuvimos nuestra segunda reunión online de usuarios/as de R de Santiago y Chile! Nuevamente se sumaron más de 10 personas para conversar, compartir y reflexionar en torno al análisis de datos."
 ---
 
-En esta **segunda** reunión online de usuarios/as de R nos encontramos con usos de R en ámbitos como **geología, biología, ingeniería,  ecología, ciencias políticas, salud, transporte**, y más! 
+En esta **segunda** reunión online de usuarios/as de R nos encontramos con usuari@s que usan R en ámbitos como **geología, biología, ingeniería,  ecología, ciencias políticas, salud, transporte**, y más! 
 
 Algunos temas que conversamos:
 
@@ -17,10 +17,18 @@ Algunos temas que conversamos:
 - La importancia del _storytelling_ y el relato al presentar datos como un factor que diferencia los productos posibles
 - El uso ético de la inteligencia artificial y el impacto que puede tener en labores ligadas a la investigación y el análisis de datos
 
-Nos vemos en la junta del próximo mes, así que [atención a nuestras redes sociales](/about.html) para mantenernos en contacto ✨
+Usos de R que surgieron en la reunión:
+
+- Plataformas de análisis de datos con storytelling para presentar resultado de investigaciones de ciencias sociales
+- Uso de Shiny para programar encuestas complejas que reaccionan y se adaptan a las respuestas entregadas
+- Distintas estrategias para gestionar la complejidad del código de aplicaciones Shiny
+- Análisis y visualización de datos espaciales usando datos satelitales para estudios sobre ecohidrología
+- Uso de funciones de R por medio de modelos de lenguaje (tool calling) para obtener datos precisos
+
+[Nos vemos en la junta del próximo mes](/participa.html), así que [atención a nuestras redes sociales](/about.html) para mantenernos en contacto ✨
 
 ::: {.galeria}
-![](santiago_r_users_1.jpeg){.fotito .lightbox group="galeria"}
+
 ![](santiago_r_users_3.jpeg){.fotito .lightbox group="galeria"}
 ![](santiago_r_users_2.jpeg){.fotito .lightbox group="galeria"}
 ![](santiago_r_users_4.jpeg){.fotito .lightbox group="galeria"}
