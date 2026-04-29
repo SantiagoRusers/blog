@@ -1,0 +1,35 @@
+---
+title: "Junta de usuari@s de R: 28 de abril, 2026"
+author: "Grupo de usuari@s de R"
+date: "2026-04-28"
+image: "santiago_r_users_10.jpeg"
+categories: [reuniones]
+lightbox: true
+description: "Tuvimos nuestra segunda reunión online de usuarios/as de R! Nuevamente se sumaron más de 10 personas para conversar, compartir y reflexionar en torno al análisis de datos."
+---
+
+En esta **segunda** reunión online de usuarios/as de R nos encontramos con usos de R en ámbitos como **geología, biología, ingeniería,  ecología, ciencias políticas, salud, transporte**, y más! 
+
+Algunos temas que conversamos:
+
+- Transformación digital y los beneficios traer y proponer tecnologías como R en nuestras organizaciones/empresas
+- La potencia de programadores/as de R, que venimos de distintas disciplina y tenemos perspectivas particulares, versus programadores tradicionales, así como las desventajas
+- La importancia del _storytelling_ y el relato al presentar datos como un factor que diferencia los productos posibles
+- El uso ético de la inteligencia artificial y el impacto que puede tener en labores ligadas a la investigación y el análisis de datos
+
+Nos vemos en la junta del próximo mes, así que [atención a nuestras redes sociales](/about.html) para mantenernos en contacto ✨
+
+::: {.galeria}
+![](santiago_r_users_1.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_3.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_2.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_4.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_6.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_5.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_7.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_8.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_9.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_10.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_11.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users_12.jpeg){.fotito .lightbox group="galeria"}
+:::

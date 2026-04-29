@@ -9,8 +9,39 @@
 <link>https://santiagoRusers.github.io/</link>
 <atom:link href="https://santiagoRusers.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio web de la comunidad de usuarias y usuarios de R en Santiago de Chile</description>
-<generator>quarto-1.8.25</generator>
-<lastBuildDate>Wed, 15 Apr 2026 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.36</generator>
+<lastBuildDate>Tue, 28 Apr 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Junta de usuari@s de R: 28 de abril, 2026</title>
+  <dc:creator>Grupo de usuari@s de R</dc:creator>
+  <link>https://santiagoRusers.github.io/posts/2026-04-28/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>En esta <strong>segunda</strong> reunión online de usuarios/as de R nos encontramos con usos de R en ámbitos como <strong>geología, biología, ingeniería, ecología, ciencias políticas, salud, transporte</strong>, y más!</p>
+<p>Algunos temas que conversamos:</p>
+<ul>
+<li>Transformación digital y los beneficios traer y proponer tecnologías como R en nuestras organizaciones/empresas</li>
+<li>La potencia de programadores/as de R, que venimos de distintas disciplina y tenemos perspectivas particulares, versus programadores tradicionales, así como las desventajas</li>
+<li>La importancia del <em>storytelling</em> y el relato al presentar datos como un factor que diferencia los productos posibles</li>
+<li>El uso ético de la inteligencia artificial y el impacto que puede tener en labores ligadas a la investigación y el análisis de datos</li>
+</ul>
+<p>Nos vemos en la junta del próximo mes, así que <a href="../../about.html">atención a nuestras redes sociales</a> para mantenernos en contacto ✨</p>
+<div class="galeria">
+<p><a href="santiago_r_users_1.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_1.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_3.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_3.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_2.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_2.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_4.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_4.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_6.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_6.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_5.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_5.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_7.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_7.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_8.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_8.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_9.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_9.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_10.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_10.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_11.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_11.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users_12.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_12.jpeg" class="fotito img-fluid"></a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>reuniones</category>
+  <guid>https://santiagoRusers.github.io/posts/2026-04-28/</guid>
+  <pubDate>Tue, 28 Apr 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://santiagoRusers.github.io/posts/2026-04-28/santiago_r_users_10.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Reunión mensual de usuari@s de R: abril</title>
   <dc:creator>Carolina Morales y Bastián Olea</dc:creator>
@@ -104,7 +135,7 @@ width: 320px;">
 <p>Más de 10 usuarias y usuarios de R participaron contando sus experiencias con la programación, mostrando sus proyectos en R, y jugando a la trivia 🤓</p>
 <p>Nos vemos en la junta del próximo mes, y atención a nuestras redes sociales para más formas de crear comunidad ✨</p>
 <div class="galeria">
-<p><a href="santiago_r_users1.png" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users1.png" class="fotito img-fluid"></a> <a href="santiago_r_users3.png" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users3.png" class="fotito img-fluid"></a> <a href="santiago_r_users2.png" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users2.png" class="fotito img-fluid"></a> <a href="santiago_r_users4.png" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users4.png" class="fotito img-fluid"></a> <a href="santiago_r_users6.png" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users6.png" class="fotito img-fluid"></a> <a href="santiago_r_users5.png" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users5.png" class="fotito img-fluid"></a></p>
+<p><a href="santiago_r_users1.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users1.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users3.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users3.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users2.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users2.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users4.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users4.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users6.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users6.jpeg" class="fotito img-fluid"></a> <a href="santiago_r_users5.jpeg" class="lightbox" data-gallery="galeria"><img src="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users5.jpeg" class="fotito img-fluid"></a></p>
 </div>
 
 
@@ -113,7 +144,7 @@ width: 320px;">
   <category>reuniones</category>
   <guid>https://santiagoRusers.github.io/posts/2026-03-18/</guid>
   <pubDate>Wed, 18 Mar 2026 03:00:00 GMT</pubDate>
-  <media:content url="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users3.png" medium="image" type="image/png" height="96" width="144"/>
+  <media:content url="https://santiagoRusers.github.io/posts/2026-03-18/santiago_r_users3.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Primera reunión</title>

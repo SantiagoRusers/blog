@@ -2,7 +2,7 @@
 title: "Junta de usuari@s de R: 18 de marzo, 2026"
 author: "Grupo de usuari@s de R"
 date: "2026-03-18"
-image: "santiago_r_users3.png"
+image: "santiago_r_users3.jpeg"
 categories: [reuniones]
 lightbox: true
 description: "Ya fue nuestra primera junta online de usuarios/as de R! Muchas gracias a las más de 10 personas que participaron y compartieron experiencias y conocimientos. Nos vemos el próximo mes!"
@@ -17,10 +17,10 @@ Más de 10 usuarias y usuarios de R participaron contando sus experiencias con l
 Nos vemos en la junta del próximo mes, y atención a nuestras redes sociales para más formas de crear comunidad ✨
 
 ::: {.galeria}
-![](santiago_r_users1.png){.fotito .lightbox group="galeria"}
-![](santiago_r_users3.png){.fotito .lightbox group="galeria"}
-![](santiago_r_users2.png){.fotito .lightbox group="galeria"}
-![](santiago_r_users4.png){.fotito .lightbox group="galeria"}
-![](santiago_r_users6.png){.fotito .lightbox group="galeria"}
-![](santiago_r_users5.png){.fotito .lightbox group="galeria"}
+![](santiago_r_users1.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users3.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users2.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users4.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users6.jpeg){.fotito .lightbox group="galeria"}
+![](santiago_r_users5.jpeg){.fotito .lightbox group="galeria"}
 :::
